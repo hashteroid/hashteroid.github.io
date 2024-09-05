@@ -3,10 +3,10 @@
     font-family: "Volume 4";
     color: #fc8403;
     text-shadow:
-    1px 1px 0 #FFF,
-    -1px 1px 0 #FFF,
-    -1px -1px 0 #FFF,
-    1px -1px 0 #FFF;
+    .5px .5px 0 #FFF,
+    -.5px .5px 0 #FFF,
+    -.5px -.5px 0 #FFF,
+    .5px -.5px 0 #FFF;
 }
 .post-title {
     font-family: "Volume 4";
