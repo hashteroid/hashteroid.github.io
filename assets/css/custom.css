@@ -19,6 +19,11 @@
 .content h1{
     font-family: "Volume 4";
     color: #fc8403;
+    text-shadow:
+    .5px .5px 0 #000,
+    -.5px .5px 0 #000,
+    -.5px -.5px 0 #000,
+    .5px -.5px 0 #000;
 }
 .tags li a{
    
