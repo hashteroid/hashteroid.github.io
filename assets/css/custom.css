@@ -1,10 +1,7 @@
 /* Empty css file that users can override in their own /assets/css/custom.css file */
 .sidebar-about h1 {
     font-family: "Volume 4";
-    color: #faa636;
-    text-shadow:
-    -.5px .5px 0 #FFF;
-   
+    color: #faa636;   
 } 
 .post-title {
     font-family: "Volume 4";
