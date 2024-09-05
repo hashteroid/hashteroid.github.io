@@ -1,6 +1,6 @@
 # Poison
 
-![[GitHub/wdsec23.github.io/screens/34d39c26920dcc51e125e0c42106324b_MD5.png]]
+
 
 ### DEMO - https://poison.lukeorth.com/
 
