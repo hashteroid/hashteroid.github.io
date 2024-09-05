@@ -1,7 +1,7 @@
 /* Empty css file that users can override in their own /assets/css/custom.css file */
 .sidebar-about h1 {
     font-family: "Volume 4";
-    color: #25b535;
+    color: #fc8403;
     text-shadow:
     1px 1px 0 #FFF,
     -1px 1px 0 #FFF,
@@ -19,7 +19,7 @@
 }
 .tags li a{
    
-    background-color: #933a23;
+    background-color: #fc8403;
 }
 .reading-time{
     color: var(--text-color);
