@@ -7,7 +7,7 @@
     font-family: "Volume 4";
     color: #faa636;
     text-shadow:
-    1px 1px 0 #000,
+    1px -1px 0 #000,
     -1px 1px 0 #000;
 }
 .page-title {
