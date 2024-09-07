@@ -14,11 +14,11 @@ pluralizelisttitles = false
     brand = "William Davis"                      # name of your site - appears in the sidebar
     # remote_brand_image = 'https://github.com/USERNAME.png' # path to a remote file
     #brand_image = "/images/naut.jpg"    # path to the image shown in the sidebar
-    #description = "Proceed..." # Used as default meta description if not specified in front matter
-    dark_mode = true                      # optional - defaults to false
+    description = "Proceed..." # Used as default meta description if not specified in front matter
+    dark_mode = true                   # optional - defaults to false
     # favicon = "favicon.png"             # path to favicon (defaults to favicon.png)
 
-    front_page_content = ["certifications"] # Equivalent to the default value, add page bundle names to include them on the front page.
+    front_page_content = ["writeups"] # Equivalent to the default value, add page bundle names to include them on the front page.
 
     # MENU PLACEHOLDER
     # Menu dict keys:
@@ -28,8 +28,9 @@ pluralizelisttitles = false
         # Limit:        If the files should be listed, how many should be shown.
 	menu = [
         {Name = "About", URL = "/about/", HasChildren = false},
-        {Name = "Certifications", URL = "/certifications/", HasChildren = true, Limit = 5},
         {Name = "Write-ups", URL = "/writeups/", HasChildren = true, Limit = 5},
+        {Name = "Cert Reviews", URL = "/certifications/", HasChildren = true, Limit = 5},
+        
 	    ]
 
     # Links to your socials.  Comment or delete any you don't need/use. 
@@ -53,14 +54,14 @@ pluralizelisttitles = false
     code_background_color = "#E5E5E5"       # default is #E5E5E5
     code_block_color = "#FFF"               # default is #FFF
     code_block_background_color = "#272822" # default is #272822
-    content_bg_color = "#c7c8c9"            # default is #FAF9F6
-    date_color = "#515151"                  # default is #515151
-    link_color = "#268BD2"                  # default is #268BD2
-    list_color = "#5A5A5A"                  # default is #5A5A5A
-    post_title_color = "#faa636"           # default is #303030
+    content_bg_color = "#7e808c"            # default is #FAF9F6
+    date_color = "#000"                  # default is #515151
+    link_color = "#5f32a8"                  # default is #268BD2
+    list_color = "#000"                  # default is #5A5A5A
+    post_title_color = "#5f32a8"           # default is #303030
     table_border_color = "#E5E5E5"          # default is #E5E5E5
     table_stripe_color = "#F9F9F9"          # default is #F9F9F9
-    text_color = "#222"                     # default is #222
+    text_color = "#000"                     # default is #222
 
     # Hex colors for your content in dark mode
     code_color_dark = "#FFF"                        # default is #FFF
@@ -88,6 +89,16 @@ pluralizelisttitles = false
                                           # For this to work though og_image and brand_url must be a path inside the assets directory
                                           # e.g. /assets/images/site/og-image.png becomes images/site/og-image.png
     # publisher_icon = ""                 # path to publisher icon - defaults to favicon, used in schema
+
+
+[[module.mounts]]
+source = 'static'
+target = 'static'
+
+[[module.mounts]]
+source = 'images'
+target = 'static/images'
+
 
 [taxonomies]
     series = 'series'
