@@ -1,5 +1,5 @@
 ---
-title: Security Blue Team Level 1
+title: Blue Team Level 1
 date: 2023-04-07 21:30:00 -0500
 categories:
   - Certifications
@@ -11,7 +11,7 @@ tags:
 ---
 ![SBT Logo](/images/BTL1/btl1big.png)
 
-## Security Blue Team
+# Security Blue Team
 I completed BTL1 in early 2021, while it was very new. Word was spreading around Twitter, LinkedIn, and Reddit about this exciting new certification that offered a practical exam. It immediately caught my interest, since we were lacking in accessible blue team content. While still expensive, offensive certifications were certainly more attainable. However, most of the infosec community doesn't live in that world. 
 ## Target Audience
 BTL1's content is incredibly accessible for entry level students. However, you **will not** pass the exam without the ability to practically use the skills taught in this course. It will require study, and practice. To date, it is one of my favorite certifications, simply because of the value it provides at its price point. For £399 (~$500) there's much to be gained for professionals, and newcomers alike.   
@@ -37,3 +37,7 @@ I think this is the best value entry-level certification on the market. It was d
 <https://securityblue.team/>
 
 ![BTL1 Coins](/images/BTL1/btl1coinsmockup.png)
+
+# AOTD: [Baroness - Blue Record](https://open.spotify.com/album/489qYkpzu44u4I6W9Ldtsx?si=OLQjtKQSQ9mLthz6GCdm8A)
+![](/images/cb477a8aeb8a5a73e22f4364e64ea54f_MD5.jpg)  
+

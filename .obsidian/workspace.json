@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "config.toml",
+                "file": "content/writeups/Hack The Box/BoardLight.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 484.5
   },
   "right": {
     "id": "8238452a5b23d827",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "config.toml",
+                "file": "content/writeups/Hack The Box/BoardLight.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "config.toml",
+                "file": "content/writeups/Hack The Box/BoardLight.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "config.toml"
+                "file": "content/writeups/Hack The Box/BoardLight.md"
               }
             }
           }
@@ -149,33 +149,39 @@
   },
   "active": "c6d5c998a79abb75",
   "lastOpenFiles": [
-    "content/certifications/2023-04-08-btl1.md",
+    "images/e973b6631e39b14dd7dfe219c092cbc2_MD5.jpg",
+    "content/writeups/Hack The Box/Editorial.md",
+    "content/writeups/Hack The Box/BoardLight.md",
+    "content/writeups/Hack The Box/GreenHorn.md",
+    "content/writeups/Hack The Box/PermX.md",
+    "images/25a28ed55602257ea2046ecd92a97f14_MD5.jpg",
+    "content/writeups/Hack The Box/Blurry.md",
+    "content/certifications/btl1.md",
+    "content/certifications/cissp.md",
+    "images/705746ec9ddcf22d67db69240636acae_MD5.jpg",
+    "images/c2052991fe1d103b6607dcee151da52d_MD5.jpg",
+    "images/7b511fe6bcd3660530ee4195e47b4cc3_MD5.jpeg",
+    "images/Gravity_X_album_cover.png",
+    "content/about/about.md",
     "config.toml",
+    "images/CISSP.png",
+    "images/gcih.png",
+    "images/btl1badge.png",
+    "images/btl1certified.png",
+    "images/btl1certified-1.png",
+    "().md",
+    "content/about",
+    "content/Untitled.md",
+    "themes/poison/config.toml",
+    "content/writeups/Hack The Box",
+    "content/test/test.md",
+    "content/test",
+    "theme.toml",
+    "content/about",
     "CNAME",
     "assets/css/custom.css",
     "assets/css/fonts.css",
-    "assets/css/poison.css",
-    "assets/css/poole.css",
-    "assets/js/light_dark.js",
-    "theme.toml",
-    "assets/css/tabs.css",
     "LICENSE.md",
-    "content/writeups/BoardLight.md",
-    "content/writeups/Editorial.md",
-    "content/writeups/GreenHorn.md",
-    "content/writeups/PermX.md",
-    "content/writeups/Blurry.md",
-    "images/18dc3404323f2ddb7e321989871526d8_MD5.jpeg",
-    "images/Pasted image 20240907133135.png",
-    "images/7d225f7f6107daf8fe0c0931ec0e5805_MD5.jpeg",
-    "images/Pasted image 20240907133110.png",
-    "images/3280e0e7d6ab68ee860f5ecb69e221d4_MD5.jpeg",
-    "images/Pasted image 20240907132902.png",
-    "images/41c98cfe7da6815796dcce06ab582e3c_MD5.jpeg",
-    "layouts/index.html",
-    "images/bb0fb73bf3054bd7c64c244e38e9f1a7_MD5.jpeg",
-    "static/images/screens/Pasted image 20240907125523.png",
-    "archetypes/default.md",
-    "screens/72d7115eb2f98f169aae3072c3493344_MD5.png"
+    "archetypes/default.md"
   ]
 }
